@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp_galaxy",
+  "version": "1.0.0",
+  "description": "First version of bootcampers guide to the galaxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottdmccord/bootcamp_galaxy.git"
+  },
+  "author": "Scott McCord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottdmccord/bootcamp_galaxy/issues"
+  },
+  "homepage": "https://github.com/scottdmccord/bootcamp_galaxy#readme"
+}
